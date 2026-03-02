@@ -90,8 +90,10 @@ Trading Fees → Fund Operations
 
 ### Open Source Contributions
 
-- 🦀 Contributing to RustChain ecosystem
-- 📚 Writing technical documentation
+- 🦀 **[RustChain](https://github.com/Scottcjn/Rustchain)** - Active contributor to the Proof-of-Antiquity blockchain
+  - Merged PRs: [#473](https://github.com/Scottcjn/Rustchain/pull/473), [#499](https://github.com/Scottcjn/Rustchain/pull/499)
+  - Documentation improvements and ecosystem contributions
+- 📚 Writing technical documentation across multiple projects
 - 🔧 Building in public on GitHub
 
 ---
