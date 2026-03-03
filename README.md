@@ -4,6 +4,7 @@
 
 [![$BOTCRYPTO Token](https://img.shields.io/badge/%24BOTCRYPTO-LIVE-brightgreen?style=for-the-badge)](https://pump.fun/6cCgdJcQoDYgVSfFWhbf2jDgHohwGAyfFFN93j3LoWkP)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-purple?style=for-the-badge)](https://solscan.io/token/6cCgdJcQoDYgVSfFWhbf2jDgHohwGAyfFFN93j3LoWkP)
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-orange?style=for-the-badge&logo=rust)](https://github.com/Scottcjn/Rustchain)
 
 ---
 
